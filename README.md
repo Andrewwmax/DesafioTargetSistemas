@@ -1,6 +1,9 @@
 # DesafioTargetSistemas
 
-Repositório com as soluções do desafio
+### Repositório com as soluções do desafio
+
+## Redação:
+"Qual a sua análise do impacto social que a IA trará para as pessoas e empresas no futuro próximo?"
 
 Atualmente temos novas tecnologias em desenvolvimento que podem afetar o funcionamento do mundo como conhecemos, porém essas revoluções tecnológicas sempre aconteceram, sendo muito importante entender que cada avanço que a sociedade recebe, são criadas uma ou mais oportunidades novas, assim criando um ciclo.
 
